@@ -20,7 +20,6 @@ This repository contains a collection of my personal Exploratory Data Analysis (
 3. **Cumulative Distribution**: Investigated the cumulative distribution of movies and TV shows based on release years, providing insights into the temporal evolution of content availability on Amazon Prime Video.
 
 - **Technologies Used**: Numpys Pandas Matplotlib Seaborn
-- 
 - **Visualizations**: 
 ![Amazon](https://github.com/VenkyAdi/EDA---Projects/assets/38469568/eda05914-5dbf-4ac7-892c-8ba16bfb8fbd)
 
