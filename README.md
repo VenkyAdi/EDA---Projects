@@ -23,6 +23,13 @@ This repository contains a collection of my personal Exploratory Data Analysis (
 - **Visualizations**: 
 ![Amazon](https://github.com/VenkyAdi/EDA---Projects/assets/38469568/eda05914-5dbf-4ac7-892c-8ba16bfb8fbd)
 
+### Banking Fraud Analysis (EDA) -- Paisabazzar
+
+In today’s financial landscape, accurate credit score assessment is vital for both financial institutions and customers. Paisabazaar, a financial services company, helps individuals find and apply for banking and credit products. A key aspect of their business involves assessing customers’ creditworthiness to provide personalized financial recommendations and ensure sound risk management practices. This case study focuses on analyzing, classifying, and predicting credit scores based on a range of customer data, such as income, credit card usage, and payment behavior. The goal is to help Paisabazaar improve their credit assessment processes, reduce loan defaults, and optimize customer services through better-informed decisions.
+
+### FedEx Logistics Performance Analysis (EDA)
+
+In today’s fast-paced, globally connected market, FedEx Logistics plays a pivotal role in managing supply chains across various industries and regions. With the rapid growth of eCommerce and global distribution networks, maintaining efficient logistics operations is critical to staying competitive. This project focuses on analyzing data from FedEx Logistics to uncover insights that can optimize shipment processes, minimize costs, and enhance customer satisfaction. The dataset contains information on shipment modes, countries, vendors, line item values, weights, freight costs, delivery delays, and more, allowing for a comprehensive analysis of the company’s logistics performanctisfaction.
 
 ## Usage
 If you're interested in exploring any of the projects, simply click on the project link to navigate to the respective folder. Each project folder contains detailed documentation and code files.
