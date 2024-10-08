@@ -31,6 +31,10 @@ In today’s financial landscape, accurate credit score assessment is vital for 
 
 In today’s fast-paced, globally connected market, FedEx Logistics plays a pivotal role in managing supply chains across various industries and regions. With the rapid growth of eCommerce and global distribution networks, maintaining efficient logistics operations is critical to staying competitive. This project focuses on analyzing data from FedEx Logistics to uncover insights that can optimize shipment processes, minimize costs, and enhance customer satisfaction. The dataset contains information on shipment modes, countries, vendors, line item values, weights, freight costs, delivery delays, and more, allowing for a comprehensive analysis of the company’s logistics performanctisfaction.
 
+### Hotel Booking Analysis - (EDA)
+
+The hotel industry operates in a highly competitive environment, making it imperative for hoteliers to continuously adapt and innovate to remain ahead. A critical aspect of maintaining a competitive edge is understanding customer behavior and booking trends. This can be achieved through comprehensive Exploratory Data Analysis (EDA) of hotel booking data, which provides valuable insights into customer preferences, booking patterns, and potential areas for strategic improvement. This analysis aims to reveal key aspects of customer behavior and hotel booking trends, enabling hotels to enhance their business outcomes.
+
 ## Usage
 If you're interested in exploring any of the projects, simply click on the project link to navigate to the respective folder. Each project folder contains detailed documentation and code files.
 
